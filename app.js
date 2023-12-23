@@ -497,11 +497,73 @@
 // document.write( `Score of ${studentName[1]} is ${studentMarks[1]}. Percentage: ${studentMarks[1]/totalMarks*100}% <br>`)
 // document.write( `Score of ${studentName[2]} is ${studentMarks[2]}. Percentage: ${studentMarks[2]/totalMarks*100}% <br>`)
 
-for(var i = 0; i<5; i++){
-    for(var j = 0; j<5; j++){
-        console.log(i,j);
-    }
-}
+// for(var i = 0; i<5; i++){
+//     for(var j = 0; j<5; j++){
+//         console.log(i,j);
+//     }
+// }
+
+// let colorArray = ["Red", "Green", "Blue", "Yellow", "Purple"];
+// document.write(colorArray);
+
+// var userInput = prompt("Enter color at the beginning");
+// colorArray.unshift(userInput);
+// document.write(colorArray);
+
+// var userInput = prompt("Enter color at the beginning");
+// colorArray.push(userInput);
+// document.write(colorArray);
+
+// var userInput = prompt("Enter color at the beginning");
+// colorArray.unshift("Laal" , "Nilla");
+
+// colorArray.pop();
+
+
+// const IndexAdd = parseInt(prompt("Enter the index to Add colors from:"));
+// const deleteCount = parseInt(prompt("Enter the number of colors to delete:"));
+// const AddColor = parseInt(prompt("Enter the number of colors to :"));
+
+// colors.splice(IndexAdd, deleteCount, AddColor);
+// document.write();
+
+
+
+// let colors = ["red","green","blue","purple","pink","yellow"]
+// document.write("<h2>original array </h2>")
+// for(let i = 0 ;i<colors.length; i++){
+//     document.write(`${i} ${colors[i]} <br>`)
+// }
+
+// const indexNumber = parseInt(prompt("Enter the index number to add:"));
+// const deleteCount = parseInt(prompt("Enter the number of index to add :"));
+// const addIndex =    (prompt("Enter the Color to add :"));
+
+// colors.splice(indexNumber, deleteCount, addIndex);
+
+// document.write("<h2>updated array </h2>")
+// for(let i = 0 ;i<colors.length; i++){
+//     document.write(`${i} ) ${colors[i]} <br>`)
+// }
+
+
+// let colors = ["red","green","blue","purple","pink","yellow"]
+// document.write("<h2>original array </h2>")
+// for(let i = 0 ;i<colors.length; i++){
+//     document.write(`${i} ) ${colors[i]} <br>`)
+// }
+
+// const deleteIndex = parseInt(prompt("Enter the index to delete colors from:"));
+// const deleteCount = parseInt(prompt("Enter the number of colors to delete:"));
+// colors.splice(deleteIndex, deleteCount);
+
+// document.write("<h2>updated array </h2>")
+// for(let i = 0 ;i<colors.length; i++){
+//     document.write(`${i} ) ${colors[i]} <br>`)
+// }
+
+
+
 
 
 

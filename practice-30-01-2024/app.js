@@ -14,5 +14,7 @@
 //  }
 
 
-var array =["Muhammad" , "Shariq", "Tanveer", "Student"]
-console.log(array);
+var myArray =["Muhammad" , "Shariq", "Tanveer", "Student"]
+console.log(myArray);
+
+myArray.splice( 3,0, "Computer")

@@ -17,4 +17,11 @@
 var myArray =["Muhammad" , "Shariq", "Tanveer", "Student"]
 console.log(myArray);
 
-myArray.splice( 3,0, "Computer")
+myArray.splice( 4,0, "Computer")
+console.log(myArray)
+
+ var newArray= myArray.slice(0,3);
+ console.log(newArray);
+
+ 
+

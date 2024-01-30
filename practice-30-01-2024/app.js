@@ -23,5 +23,5 @@ console.log(myArray)
  var newArray= myArray.slice(0,3);
  console.log(newArray);
 
- 
+ console.log(`${newArray[1]} is a good boy, his father name is ${newArray[2]} and he is a police officer in pakistan.`)
 

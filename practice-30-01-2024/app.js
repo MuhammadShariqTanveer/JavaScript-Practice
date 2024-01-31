@@ -33,3 +33,6 @@ console.log(names);
 var cap= names.toUpperCase()
 console.log(cap)
 
+var first= names[0].toUpperCase() + names.slice(1);
+console.log(first)
+

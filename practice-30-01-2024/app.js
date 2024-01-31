@@ -27,8 +27,9 @@
 //  console.log(`${newArray} is a ${myArray[3]} ${myArray[4]} in Smiu`);
 
 
-for(i=0; i<=4; i++){
-    for(j=0; j<=5; j++){
-    console.log(i,j);
-}
-}
+var names= "shariq";
+console.log(names);
+
+var cap= names.toUpperCase()
+console.log(cap)
+

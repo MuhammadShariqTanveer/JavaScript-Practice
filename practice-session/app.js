@@ -37,7 +37,7 @@
 // console.log(first)
 
 
-let arr = ["raja", "shariq", "tanveer"];
-const arr2 = arr.slice(1);
+// let arr = ["raja", "shariq", "tanveer"];
+// const arr2 = arr.slice(1);
 
-console.log(arr2+ arr[0])
+// console.log(arr2+ arr[0])

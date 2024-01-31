@@ -37,7 +37,10 @@
 // console.log(first)
 
 
-
-    let names= "shariq";
-    names = "raja";
-    alert(names);
+function abc(){
+    let name= "shariq";
+    name = "raja";
+    console.log(name)
+}
+ 
+abc()

@@ -37,10 +37,3 @@
 // console.log(first)
 
 
-function abc(){
-    let name= "shariq";
-    name = "raja";
-    console.log(name)
-}
- 
-abc()

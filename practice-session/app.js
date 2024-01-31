@@ -27,12 +27,17 @@
 //  console.log(`${newArray} is a ${myArray[3]} ${myArray[4]} in Smiu`);
 
 
-var names= "shariq";
-console.log(names);
+// var names= "shariq";
+// console.log(names);
 
-var cap= names.toUpperCase()
-console.log(cap)
+// var cap= names.toUpperCase()
+// console.log(cap)
 
-var first= names[0].toUpperCase() + names.slice(1);
-console.log(first)
+// var first= names[0].toUpperCase() + names.slice(1);
+// console.log(first)
 
+
+
+    let names= "shariq";
+    names = "raja";
+    alert(names);

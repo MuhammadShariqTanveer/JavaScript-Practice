@@ -26,3 +26,9 @@
 //  console.log(`${newArray[1]} is a good boy, his father name is ${newArray[2]} and he is a police officer in pakistan. `);
 //  console.log(`${newArray} is a ${myArray[3]} ${myArray[4]} in Smiu`);
 
+
+for(i=0; i<=4; i++){
+    for(j=0; j<=5; j++){
+    console.log(i,j);
+}
+}

@@ -41,3 +41,10 @@
 // const arr2 = arr.slice(1);
 
 // console.log(arr2+ arr[0])
+
+
+let i = 0;
+
+for(i=0; i<=10;i++){
+    console.log(i)
+}

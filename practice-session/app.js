@@ -53,9 +53,11 @@
 // console.log(arrayMy)
 
 var str= "It is a test product.";
-var word = "test";
-var replace = "best";
 
-console.log(str.replace(word,replace))
+console.log(str);
+
+for (i=0, i<=str.length; i++) {
+    console.log(i)
+}
 
 

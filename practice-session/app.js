@@ -52,12 +52,33 @@
 // var arrayMy = typeof(myArray);
 // console.log(arrayMy)
 
-var str= "It is a test product.";
+// var str= "It is a test product.";
 
-console.log(str);
+// console.log(str);
 
-for (i=0, i<=str.length; i++) {
-    console.log(i)
+// var firstChar= str.indexOf("test");
+// if(firstChar !== -1) {
+//     str = str.slice(0,firstChar) + "best" + str.slice(12,21);
+//     console.log(str)
+// }
+
+// var str= "It is a test product.";
+// console.log(str)
+// for (var i = 0; i<str.length; i++){
+//     if(str.slice(i,i+4)==="test"){
+//         str = str.slice(0,8) + "best" + str.slice(12);
+//         console.log(str)
+//     }
+// }
+
+var currentAge = +prompt("Enter Current Age")
+var yearsEligibleVote = 18;
+
+if(currentAge>=yearsEligibleVote){
+    console.log("You're Eligible For Vote")
+}else{
+    console.log("You're Not Eligible For Vote")
 }
+
 
 

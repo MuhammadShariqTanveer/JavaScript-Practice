@@ -43,10 +43,9 @@
 // console.log(arr2+ arr[0])
 
 
-var myArray = ["A","B","C","D","E","F","G"];
-for (i=0; i<=myArray.length; i++){
-    console.log(i)
-}
+var myArray = ["A","B","C","D","E","F","H"];
+console.log(myArray);
 
-
+var arrayChanging = myArray.splice(7,0,"G");
+console.log(myArray);
 

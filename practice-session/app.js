@@ -43,8 +43,9 @@
 // console.log(arr2+ arr[0])
 
 
-let i = 0;
+var str = "It is a test product";
+var word= "test";
+var replace = "best";
 
-for(i=0; i<=10;i++){
-    console.log(i)
-}
+console.log(str)
+

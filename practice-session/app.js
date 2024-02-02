@@ -43,11 +43,19 @@
 // console.log(arr2+ arr[0])
 
 
-var myArray = ["A","B","C","D","E","F","H"];
+// var myArray = ["A","B","C","D","E","F","H"];
 // console.log(myArray);
 
 // var arrayChanging = myArray.splice(7,0,"G");
 // console.log(myArray);
 
-var arrayMy = typeof(myArray);
-console.log(arrayMy)
+// var arrayMy = typeof(myArray);
+// console.log(arrayMy)
+
+var str= "It is a test product.";
+var word = "test";
+var replace = "best";
+
+console.log(str.replace(word,replace))
+
+

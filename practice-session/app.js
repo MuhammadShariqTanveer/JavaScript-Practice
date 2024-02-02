@@ -71,14 +71,14 @@
 //     }
 // }
 
-var currentAge = +prompt("Enter Current Age")
-var yearsEligibleVote = 18;
+// var currentAge = +prompt("Enter Current Age")
+// var yearsEligibleVote = 18;
 
-if(currentAge>=yearsEligibleVote){
-    console.log("You're Eligible For Vote")
-}else{
-    console.log("You're Not Eligible For Vote")
-}
+// if(currentAge>=yearsEligibleVote){
+//     console.log("You're Eligible For Vote")
+// }else{
+//     console.log("You're Not Eligible For Vote")
+// }
 
 
 

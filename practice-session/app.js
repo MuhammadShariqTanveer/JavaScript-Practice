@@ -44,8 +44,10 @@
 
 
 var myArray = ["A","B","C","D","E","F","H"];
-console.log(myArray);
+// console.log(myArray);
 
-var arrayChanging = myArray.splice(7,0,"G");
-console.log(myArray);
+// var arrayChanging = myArray.splice(7,0,"G");
+// console.log(myArray);
 
+var arrayMy = typeof(myArray);
+console.log(arrayMy)

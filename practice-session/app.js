@@ -80,5 +80,13 @@
 //     console.log("You're Not Eligible For Vote")
 // }
 
+let num1 =6;
+let num2 =num1;
 
+console.log("the value of num1 is",num1);
+console.log("the value of num2 is",num2);
+num1++;
+console.log("the value after the incremetiing the value ");
 
+console.log("the value of num1 is",num1);
+console.log("the value of num2 is",num2);

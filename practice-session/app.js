@@ -92,18 +92,3 @@
 // console.log("the value of num2 is",num2);
 
 
-let num1="item1";
-let num2 =num1;
-
-//printting the value
-console.log("value of array1",num1);
-console.log("value of array2",num2);
-
-//pushing method 
-num1.unshift("item2");
-
-console.log("the value after the applying the push method");
-
-//checking the value after the pushing value 
-console.log("the value of array1",num1);
-console.log("the value of array2",num2);

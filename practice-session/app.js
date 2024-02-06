@@ -92,3 +92,14 @@
 // console.log("the value of num2 is",num2);
 
 
+var arr = ["muhammad", "shariq", "tanveer"];
+var userName = prompt();
+
+for(i=0; i<=arr.length; i++){
+if(userName===arr.length){
+    console.log("Found")
+}else{
+    console.log("Not Found")
+}
+
+}

@@ -92,21 +92,21 @@
 // console.log("the value of num2 is",num2);
 
 
-var arr = ["muhammad", "shariq", "tanveer"];
-var userName = prompt();
- var flag = false;
+// var arr = ["muhammad", "shariq", "tanveer"];
+// var userName = prompt();
+//  var flag = false;
 
-for(i=0; i<= arr.length; i++){
-    if(userName===arr[i]){
-        flag = true;
-        console.log("Found");
-        break;
-    }
-}
+// for(i=0; i<= arr.length; i++){
+//     if(userName===arr[i]){
+//         flag = true;
+//         console.log("Found");
+//         break;
+//     }
+// }
 
-if(flag===false){
-    console.log("Not Found");
-}
+// if(flag===false){
+//     console.log("Not Found");
+// }
 
 
 

@@ -94,12 +94,17 @@
 
 var arr = ["muhammad", "shariq", "tanveer"];
 var userName = prompt();
+ flag = true;
 
-for(i=0; i<=arr.length; i++){
-if(userName===arr.length){
-    console.log("Found")
-}else{
-    console.log("Not Found")
-}
+for(i=0; i<= arr.length; i++){
+    if(userName===arr[i]){
+        console.log("Found");
+        flag = false;
+    }
+    else{
+        console.log("Not Found");
+    }
+    }
 
-}
+
+

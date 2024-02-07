@@ -18,15 +18,15 @@ margin-top: 50px;
     align-items: center;
     /* border: 1px solid; */
     /* width: 30%; */
-    justify-content:center;
-    margin: auto;
+    /* justify-content:center; */
+    /* margin: auto;
     height: 50px;
     
-}
+/* } */
 
-.header_txt{
+/* .header_txt{ */
     /* border: 1px solid ; */
-    font-size: large;
+    /* font-size: large;
     font-weight:900;
     
 }
@@ -46,10 +46,10 @@ margin-top: 50px;
 
 .iconimg{
     /* border: 1px solid; */
-    width: 9%;
-}
+    /* width: 9%; */
+/* } */
 
-.iconimg img{
+/* .iconimg img{
     width: 100%;
     border-radius: 100%;
 }
@@ -66,11 +66,11 @@ margin-top: 50px;
     padding-left: 10px;
     position: absolute;
     /* border: 1px solid; */
-    top: -17px;
+    /* top: -17px;
  list-style:none;
  font-weight: bold;
-}
-
+} */
+/* 
 textarea{
     width: 98%;
     margin-top: 5px;
@@ -99,15 +99,15 @@ textarea::placeholder{
 #color{
     /* border: none; */
 
-}
+/* }
 
 #fb1{
   width: 35px;
-}
+} */ */ */
 
 
 
-#fb{
+/* #fb{
     width: 40px;
   }
 
@@ -115,26 +115,26 @@ textarea::placeholder{
     margin-top: -10px;
     width: 100%;
     /* margin: auto; */
-    text-align: center;
+    /* text-align: center;
     position: relative;
-  }
+  } */
 
-#input input{
+/* #input input{
     width: 90%;
-    padding: 13px 0px ;
+    padding: 13px 0px ; */
     /* text-align:left; */
     
-}
+/* } */
 
-#input li{
+/* #input li{
     display: inline-block;
     font-size: larger;
     position:relative;
     top: -50px;
     left: 60px;
     margin-left: 10px;
-}
-
+} */
+/* 
 #input input::placeholder{
     font-size: 18px;
 }
@@ -164,9 +164,9 @@ table{
 
 .bold{
     font-weight: bold;
-}
+} */ 
 
-.post{
+/* .post{
     cursor: pointer;
 }
 
@@ -182,7 +182,7 @@ table{
 #hr{
     
     visibility: hidden;
-} */
+}   */
 
 
-
+ 

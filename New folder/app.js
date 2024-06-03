@@ -4,4 +4,6 @@ var student = {
     phone: 03492025018,
     enrolled: true
 }
+
+student.class = "WMA"
 console.log(student)

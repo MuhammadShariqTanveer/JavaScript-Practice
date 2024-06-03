@@ -5,5 +5,8 @@ var student = {
     enrolled: true
 }
 
-student.class = "WMA"
+student.class = { 
+    name: "WMA",
+    time: "9pm"
+}
 console.log(student)

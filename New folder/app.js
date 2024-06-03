@@ -10,3 +10,4 @@ student.class = {
     time: "9pm"
 }
 console.log(student)
+

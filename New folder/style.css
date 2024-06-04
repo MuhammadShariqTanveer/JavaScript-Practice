@@ -1,3 +1,14 @@
-.name{
-    background-color: aqua;
+.main_container{
+    width: 100%;
+}
+
+.navlogo{
+    width: 130px;
+    /* animation: flash infinite; */
+    animation-duration: 1.2s;
+    mix-blend-mode: darken;
+    
+}
+.navbar_h3{
+    font-family:Arial, Helvetica, sans-serif;
 }

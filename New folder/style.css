@@ -6,15 +6,18 @@
     display: flex;
     align-items: center;
     background-color: bisque;
+    width: 100%;
+}
+
+#showroomh1{
+    font-family:cursive;
 }
 
 .navlogo{
-    width: 110px;
+    width: 95px;
     animation: flash infinite;
     animation-duration: 1.2s;
     mix-blend-mode: darken;
     
 }
-.navbar_h3{
-    font-family: 'Times New Roman', Times, serif;
-}
+

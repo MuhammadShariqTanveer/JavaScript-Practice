@@ -1,13 +1,44 @@
-var student = {
-    name: "Shariq",
-    email: "shariqraja212@gmail.com",
-    phone: 03492025018,
-    enrolled: true
+var showroomData = {
+      Honda : {
+        Civic : {
+
+            Ribirth : {
+            Make : "Honda Civic Rebirth",
+            Model: 2018,
+            Color: "Red, Green, Blue",
+            Transmission: "Automatic"
+            },
+
+            Reborn : {
+                Make : "Honda Civic Reborn",
+                Model: 2019,
+                Color: "Red, Green, Blue",
+                Transmission: "Automatic",
+                Price: "41 Lac"
+            }
+            
+        },
+        City :{
+
+            hytec :{
+                Make : "Honda Civic Rebirth",
+            Model: 2018,
+            Color: "Red, Green, Blue",
+            Transmission: "Automatic"
+            }
+        }
+      },
+
+      Toyota : {
+        Corolla:{
+            Gli:{
+                Make : "Honda Civic Rebirth",
+            Model: 2018,
+            Color: "Red, Green, Blue",
+            Transmission: "Automatic"
+            }
+        }
+      }
 }
 
-student.class = { 
-    name: "WMA",
-    time: "9pm"
-}
-console.log(student)
-
+console.log(showroomData)
